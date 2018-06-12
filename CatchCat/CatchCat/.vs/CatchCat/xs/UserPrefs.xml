@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2E491906-E30F-112F-EC25-42B288674912}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameMain.cs">
+    <Files>
+      <File FileName="Assets/Script/GameMain.cs" Line="46" Column="9" />
+      <File FileName="Assets/Script/GameData.cs" Line="16" Column="23" />
+      <File FileName="Assets/Script/MTreeNode.cs" Line="345" Column="4" />
+      <File FileName="Assets/Script/UGUISpriteAnimation.cs" Line="140" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/CatchCat/CatchCat/Assets/Script/MTreeNode.cs" relfile="Assets/Script/MTreeNode.cs" line="428" column="1" />
+      <Breakpoint file="/Users/mac/CatchCat/CatchCat/Assets/Script/GameData.cs" relfile="Assets/Script/GameData.cs" line="448" column="1" />
+      <Breakpoint file="/Users/mac/CatchCat/CatchCat/Assets/Script/GameData.cs" relfile="Assets/Script/GameData.cs" line="458" column="1" />
+      <Breakpoint file="/Users/mac/CatchCat/CatchCat/Assets/Script/GameMain.cs" relfile="Assets/Script/GameMain.cs" line="407" column="1" />
+      <Breakpoint file="/Users/mac/CatchCat/CatchCat/Assets/Script/GameMain.cs" relfile="Assets/Script/GameMain.cs" line="55" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
